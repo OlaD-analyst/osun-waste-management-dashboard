@@ -63,6 +63,12 @@ A data-driven dashboard built using Power BI that:
 
 ---
 
+## 📊 Live Interactive Dashboard
+[![Click here to view the Live Dashboard](Dashboard%20Overview.png)](https://app.powerbi.com/links/y60E8dbsMe?ctid=13bf0cf2-8a0f-4d4b-974c-6a784d9fbdad&pbi_source=linkShare)
+
+*Click the image above to interact with the live data, filters, and tooltips.*
+
+
 ## 📊 Dashboard Preview
 
 ![Dashboard Overview](Dashboard%20Overview.png)
