@@ -65,7 +65,7 @@ A data-driven dashboard built using Power BI that:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](Dashboard%200Overview.png)
+![Dashboard Overview](Dashboard%20Overview.png)
 ![Waste Map](Gepgraphic%20Insights.png)
 ![Climate Trends](Environmental%20Climate%20Insights.png)
 ![Population Overview](Population%20Insights.png)
